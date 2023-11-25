@@ -69,3 +69,9 @@ Json Output:
    "salary": "75000"
 }
 ]
+
+
+programming language- java 17
+framework- springboot 3.1.5
+DB- MySql
+BuildTool - Maven
